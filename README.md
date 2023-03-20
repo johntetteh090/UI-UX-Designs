@@ -1,8 +1,7 @@
 # UI-UX-Designs
 My UI/UX design samples
 
-
-
+![homePage-figma](https://user-images.githubusercontent.com/54126006/226482422-3edf1685-fa2c-459a-ba89-8cfb11d8fed0.png)
 ![Desktop - 1](https://user-images.githubusercontent.com/54126006/226477909-ce8a6376-df5a-47ad-aedf-4acbc8507425.png)
 ![Screenshot_20220708-132258](https://user-images.githubusercontent.com/54126006/226478238-02249f94-18c6-402e-9643-716faad19587.png)
 ![Screenshot_20220708-132341](https://user-images.githubusercontent.com/54126006/226478293-ee6cec37-44ec-4c65-b709-9bd243d6bb59.png)
