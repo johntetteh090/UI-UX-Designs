@@ -1,7 +1,7 @@
 # UI-UX-Designs
 My UI/UX design samples
 
-＜img src= "https://user-images.githubusercontent.com/54126006/226477754-2eb5486e-e7d0-4ffd-a1d5-326d8a35d550.png" width="500" height="300"/＞
+
 
 ![Desktop - 1](https://user-images.githubusercontent.com/54126006/226477909-ce8a6376-df5a-47ad-aedf-4acbc8507425.png)
 ![Screenshot_20220708-132258](https://user-images.githubusercontent.com/54126006/226478238-02249f94-18c6-402e-9643-716faad19587.png)
